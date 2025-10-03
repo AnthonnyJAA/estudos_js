@@ -1,0 +1,8 @@
+Mandar
+git add .
+git commit -m "Primeiro commit - subindo projeto escolar"
+git push
+git push origin main
+
+Puxar
+git pull origin main
